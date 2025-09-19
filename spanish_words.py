@@ -1,0 +1,5 @@
+print("hola")
+print("adiós")
+print("comer")
+print("vivir")
+print("ser")
